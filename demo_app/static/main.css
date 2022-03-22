@@ -1,0 +1,11 @@
+h1:hover {
+    text-decoration: underline;
+}
+
+ul li {
+    color: green;
+}
+
+ul li:nth-child(even) {
+    color: red;
+}
